@@ -1,3 +1,5 @@
+// Demostra switch sem instruções break.
+
 class NoBreak {
 public static void main (String args []) {
 int i;
